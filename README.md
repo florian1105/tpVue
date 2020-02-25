@@ -1,2 +1,0 @@
-# tpVue
-Created with CodeSandbox
